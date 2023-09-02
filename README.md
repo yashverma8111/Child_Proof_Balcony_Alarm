@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Child-Adult Height Alarm System is a simple Arduino-based project designed to differentiate between the heights of children and adults attempting to cross a door or threshold. It does this by utilizing an ultrasonic sensor (HC-SR04) to measure the height of individuals passing through the doorway. If the system detects a child's height, it triggers an alarm to alert the appropriate personnel.
+The Child-Proof Balcony Alarm System is a simple Arduino-based project designed to differentiate between the heights of children and adults attempting to cross a door or threshold. It does this by utilizing an ultrasonic sensor (HC-SR04) to measure the height of individuals passing through the doorway. If the system detects a child's height, it triggers an alarm to alert the appropriate personnel.
 
 ## Components
 
