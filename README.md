@@ -56,6 +56,9 @@ The provided Arduino code defines the functionality of the Child-Adult Height Al
 
 - You can adjust the range values (5000 and 6000 in the code) to suit your specific requirements for differentiating between children and adults based on height.
 
+## Link to the Demo
+- https://drive.google.com/file/d/1DQnoyuYJbEFghp22AVnBfPd4teXVQN9I/view?usp=sharing
+
 - You can replace the buzzer with other alarm devices or integrate additional components for remote alerts or logging.
 
 ## Conclusion
